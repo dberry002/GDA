@@ -9,4 +9,4 @@ The Capstone Google Data Analytics Project was the final project at then end of 
 The company supplied data that was taken from the company and needed suggestions based on the information gathered from the data set. Being able to accurately predict employees that are liekly to quit it will allow the company to change in order to stop this from happening. 
 
 # Key Models
-<img width="987" alt="Screenshot 2024-07-14 at 12 38 08 PM" src="https://github.com/user-attachments/assets/75682fe0-1a75-4d7c-a075-6bfa9e89e010">
+<img width="400" alt="Screenshot 2024-07-14 at 12 38 08 PM" src="https://github.com/user-attachments/assets/75682fe0-1a75-4d7c-a075-6bfa9e89e010">
