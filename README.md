@@ -15,3 +15,9 @@ The company supplied data that was taken from the company and needed suggestions
 
 1. This could be seen as a very important plot for the reason of seeing which soecific department has the greatest number of employees leaving. Sales has the greatest number of employees leaving anf with this information it allows the company to dive deeper into figuring out exactly why the sales department is in this isutation. Then from there make decisions for the better of the company that will decrease these numbers.
 <img width="450" alt="Screenshot 2024-07-14 at 12 44 08 PM" src="https://github.com/user-attachments/assets/cbcbbac7-8e39-42a8-8429-95f27a537e88">
+
+# Conclusion
+The main goal of this whole project was to figure out why employees are leaving and what employees are likely to leave next. Looking into the data we can see that employees are being overworked and because of this it is making them unsatified with the company.
+1. Cap the number of possible projects
+2. Tenured employees are seen being unsatisifid so look into incentives or promotion for these employees. There is no reason employees that have been working that many hours should and hjave been there for that long should see no benefits from this work.
+3. More regular surveys could be beneficial in order to see how employees are doing thorughout the year instead of just doing on after a long period of time. This could allow the company to jump on the problems before they go to far.
