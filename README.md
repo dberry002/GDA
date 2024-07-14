@@ -14,4 +14,4 @@ The company supplied data that was taken from the company and needed suggestions
 <img width="450" alt="Screenshot 2024-07-14 at 12 38 08 PM" src="https://github.com/user-attachments/assets/75682fe0-1a75-4d7c-a075-6bfa9e89e010">
 
 1. This could be seen as a very important plot for the reason of seeing which soecific department has the greatest number of employees leaving. Sales has the greatest number of employees leaving anf with this information it allows the company to dive deeper into figuring out exactly why the sales department is in this isutation. Then from there make decisions for the better of the company that will decrease these numbers.
-<img width="751" alt="Screenshot 2024-07-14 at 12 44 08 PM" src="https://github.com/user-attachments/assets/cbcbbac7-8e39-42a8-8429-95f27a537e88">
+<img width="450" alt="Screenshot 2024-07-14 at 12 44 08 PM" src="https://github.com/user-attachments/assets/cbcbbac7-8e39-42a8-8429-95f27a537e88">
