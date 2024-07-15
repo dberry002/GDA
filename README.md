@@ -2,7 +2,7 @@ GDA
 Google Data Analytics Project
 
 # Overview
-The Capstone Google Data Analytics Project was the final project at then end of the 6 motnh course. It took me through each of the
+The Capstone Google Data Analytics Project was the final project at then end of the 6 month course. It took me through each of the
 6 sections I completed previously and applied the learning all together. Given a company to work for I had to create models and gather insights from the data in order to help the company figure out why employees are leaving and who is leaving.
 
 # Supporting the Business
