@@ -1,4 +1,4 @@
-e# GDA
+GDA
 Google Data Analytics Project
 
 # Overview
