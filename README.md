@@ -9,7 +9,7 @@ The Capstone Google Data Analytics Project was the final project at the end of t
 The data from the company will allow me to give suggestion on what they can do moving forard to help the employees become more satisified. Being able to accurately predict employees that are liekly to quit will allow the company to change in order to stop this from happening. 
 
 # Key Models
-1. This model goes along with the idea that in most cases the people that work on the most projects are likely to work the most amount of hours.Based on the tables it can be seen there are two groups of people that have left the company. One group that worked signifcantly less hour and one that worked a greater amount. The first group could have been fired or already decided to leave the company so they have less hours. The second group may have had employees that quit. This could be because of the long hours they worked and still being unsatisified with the company.
+1. This model goes along with the idea that in most cases the people that work on the most projects are likely to work the most amount of hours. Based on the tables it can be seen there are two groups of people that have left the company. One group that worked signifcantly less hour and one that worked a greater amount. The first group could have been fired or already decided to leave the company so they have less hours. The second group may have had employees that quit. This could be because of the long hours they worked and still being unsatisified with the company.
 2. The optimal number of projects seems to be 3-4 as the least amount of people are leaving. 
 <img width="450" alt="Screenshot 2024-07-14 at 12 38 08 PM" src="https://github.com/user-attachments/assets/75682fe0-1a75-4d7c-a075-6bfa9e89e010">
 
